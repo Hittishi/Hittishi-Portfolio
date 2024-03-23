@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Bidsy, Online Auction System",
+      "imageSrc": "projects/project1.gif",
+      "description": "This website hosts auctions across diverse categories, offering automated bidding functionalities. Buyers can place manual or automatic bids and opt for outbid notifications. The platform provides sorting and searching options to help buyers navigate items. Sellers can list items, setting price ranges and bid expiration times.",
+      "skills": ["Java", "MySQL", "HTML", "CSS"],
+      "demo": "https://github.com/Hittishi/Online_Auction_System",
+      "source": "https://github.com/Hittishi/Online_Auction_System"
+    },
+    {
+      "title": "MyBookPal, Online Bookstore Platform",
+      "imageSrc": "projects/project2.gif",
+      "description": "This website, MyBookPal, provides a diverse array of search options with filters across various parameters, ensuring a tailored browsing experience. Users can securely make payments and engage in both selling and borrowing books, with additional features such as notifications and auctions enhancing the overall user experience.",
+      "skills": ["JavaScript", "Node", "HTML", "CSS"],
+      "demo": "https://github.com/Suraj-komarla/MyBookPal",
+      "source": "https://github.com/Suraj-komarla/MyBookPal"
+    },
+    {
+      "title": "Image Classification with EMNIST Dataset",
+      "imageSrc": "projects/project3.gif",
+      "description": "This image classification project is designed to classify handwritten letters using the EMNIST dataset. Implementing Conditional Categorical models to accurately recognize handwritten characters. Includes analysis to assess model performance and scalability, demonstrating its potential for real-world applications in character recognition systems.",
+      "skills": ["Python", "Torch", "Scikit-learn" ],
+      "demo": "https://github.com/Hittishi/Image-Classification",
+      "source": "https://github.com/Hittishi/Image-Classification"
+    },
+    {
+      "title": "Robot Navigation & Collision Avoidance",
+      "imageSrc": "projects/project4.gif",
+      "description": "This academic project aimed to enable a robot to navigate safely, prioritizing collision avoidance. Comprised two phases: initially, the robot navigated through a narrow pathway, contending with obstacles. In the next phase, it accompanied its owner through a crowded room, avoiding collisions amidst humans.",
+      "skills": ["MuJoCo", "Python","SciPy"],
+      "demo": "https://github.com/Hittishi/Rover_Simulation",
+      "source": "https://github.com/Hittishi/Rover_Simulation"
+    }
+  ]

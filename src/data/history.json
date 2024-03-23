@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "Mindtree",
+      "startDate": "June, 2022",
+      "endDate": "July, 2021",
+      "experiences": ["Contributed to the development of a mobile application for a US-based real estate organization.", "Utilized AWS to provide infrastructure and platform support for developers, alongside employing DevOps tools like Terraform, Docker, Datadog, Jenkins, and GitLab.","Monitored the health of pipelines. "],
+      "imageSrc": "history/mindtree.png"
+    }
+  ]
